@@ -268,7 +268,7 @@ ul li .nav2{
 }
 
 /* Estilos para dispositivos móviles */
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 768px) {
     /* Ajustes generales */
     .logo img {
         max-width: 60px;
